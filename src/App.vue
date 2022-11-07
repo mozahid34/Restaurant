@@ -2,6 +2,7 @@
  <div>
    
    <SignUp/>
+
  </div>
 </template>
 
@@ -9,10 +10,12 @@
 import SignUp from './components/SignUp.vue'
 
 
+
 export default {
   name: 'App',
   components: {
     SignUp
+    
     
   }
 }
